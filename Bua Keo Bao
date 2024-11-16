@@ -36,6 +36,8 @@ else:
         else:
             print("Win")
     else:
-        print("Nhap sao!")
+        print("Nhap sai!")
 
 print("-----------------------------")
+
+print("Anh khạc hay Em khạc")
